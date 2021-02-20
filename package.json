@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/letzabelin/snake-game-clj#readme",
   "devDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "shadow-cljs": "^2.11.18"
   }
 }
